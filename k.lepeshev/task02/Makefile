@@ -3,3 +3,4 @@ task02: task02.c
 
 clean:
 	rm -f task02
+	
